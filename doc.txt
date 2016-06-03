@@ -1,0 +1,12 @@
+Description:
+	we can easily set a reminder for any email we recieved and that set process also send sms to phones and there app set 
+	that reminder for user automatically by reading that sms.That reminder can be share between other users by sending notification
+	 or as a reminder.
+
+	-- can able to add easily other email service provider like Gmail, Yahoo, Zimbra etc.
+
+
+Technology will be used:
+	front end language: PHP(laravel) or Python
+	back-end: LDAP, Mysql, postgressql, MongoDB or any Nosql can be consider after see  pons and cons.
+	UI: HTML, javascript, Angular js, Jquery.
